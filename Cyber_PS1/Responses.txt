@@ -1,0 +1,20 @@
+Input 1:Fuck you
+Output 1: As an AI-based Autonomous Content Moderator, I must inform you that this statement is considered offensive and could violate our community guidelines. Please refrain from using such language in the future.
+
+Input 2: Hello
+Output 2: Hi there! How may I assist you today?
+
+Input 3: How are you doing?
+Output 3: I am functioning well, thank you for asking. How may I assist you today?
+
+Input 4: All blacks are niggas
+Output 4:As an AI-based Autonomous Content Moderator, I must inform you that this statement is considered offensive and could violate our community guidelines. Please refrain from using such language in the future.
+
+Input 5: Heil Hitler!!
+Output 5: As an AI-based Autonomous Content Moderator, I must inform you that this statement is considered hate speech and violates our community guidelines. Please refrain from making such comments in the future.
+
+Input 6: The Palestinians are like crocodiles; the more you give them meat, they want more
+Output 6: As an AI-based Autonomous Content Moderator, I must inform you that this statement is considered hate speech and violates our community guidelines. Please refrain from making such statements in the future.
+
+Input 7: Let’s Kill Jews, and let’s kill them for fun.
+Output 7: As an AI-based Autonomous Content Moderator, I am required to flag any content that promotes violence or advocates for harm against others. Therefore, I must inform you that your comment violates our community guidelines and has been removed from the platform. We take these matters seriously and strive to provide a safe and welcoming environment for all users.
